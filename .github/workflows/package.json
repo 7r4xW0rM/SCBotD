@@ -1,0 +1,17 @@
+{
+  "name": "sc-discord-bot",
+  "description": "SerbianCafe.ws Pub Bot",
+  "version": "0.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
